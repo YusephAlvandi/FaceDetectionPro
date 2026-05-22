@@ -1,4 +1,4 @@
-Face Detection Pro
+Face Detection
 
 An AI-powered desktop application for face detection in images; either single or batch processing with live preview.
 
